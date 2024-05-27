@@ -28,7 +28,7 @@ function App() {
       <div className="w-full block">
         <Header />
         <main>
-          TODO:
+          TODO: .com
           {/* <Outlet /> */}
         </main>
         <Footer />
